@@ -58,18 +58,18 @@ I build AI products at hackathon speed: agents that get stalled prescriptions fi
 ### Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,ts,js,r,kotlin,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,js,r,kotlin,html,css&theme=light" alt="Python, Java, TypeScript, JavaScript, R, Kotlin, HTML, CSS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cts%2Cjs%2Cr%2Ckotlin%2Chtml%2Ccss&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py%2Cjava%2Cts%2Cjs%2Cr%2Ckotlin%2Chtml%2Ccss&theme=light" alt="Python, Java, TypeScript, JavaScript, R, Kotlin, HTML, CSS">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,postgres,mongodb,redis,supabase,firebase&theme=dark">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,postgres,mongodb,redis,supabase,firebase&theme=light" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Postgres, MongoDB, Redis, Supabase, Firebase">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv%2Cpostgres%2Cmongodb%2Credis%2Csupabase%2Cfirebase&theme=dark">
+  <img src="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv%2Cpostgres%2Cmongodb%2Credis%2Csupabase%2Cfirebase&theme=light" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Postgres, MongoDB, Redis, Supabase, Firebase">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,androidstudio,aws,vercel,git,github&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,androidstudio,aws,vercel,git,github&theme=light" alt="React, Next.js, Tailwind, three.js, Node.js, Android Studio, AWS, Vercel, Git, GitHub">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cthreejs%2Cnodejs%2Candroidstudio%2Caws%2Cvercel%2Cgit%2Cgithub&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cthreejs%2Cnodejs%2Candroidstudio%2Caws%2Cvercel%2Cgit%2Cgithub&theme=light" alt="React, Next.js, Tailwind, three.js, Node.js, Android Studio, AWS, Vercel, Git, GitHub">
 </picture>
 
 <sub>plus pandas, NumPy, Power BI and Tableau</sub>
