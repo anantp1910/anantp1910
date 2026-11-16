@@ -7,7 +7,7 @@
 
 ## Hi, I'm Anant
 
-**AI engineer and full-stack builder at Penn State**
+**AI engineer and full-stack builder**
 
 I build AI products at hackathon speed: agents that get stalled prescriptions filled, a back office that learns from your books, and fall detection for ER waiting rooms.
 
@@ -20,8 +20,9 @@ I build AI products at hackathon speed: agents that get stalled prescriptions fi
 
 ### About Me
 
-- I learn by shipping: **4 hackathons in 2026** (NexHacks at CMU, Bitcamp, HackGT 13 and c0mpiled-15) and 6 projects built with teams.
+- I learn by shipping: **6 hackathons in 2026**, one shipped project at each (NexHacks at CMU, c0mpiled-6, Bitcamp, the UC Berkeley AI Hackathon, HackGT 13 and c0mpiled-15).
 - I like the spot where AI meets real life: multi-agent systems, real-time apps, fintech and health tech.
+- On the data side: Python, R, SQL, statistics and data visualization.
 - Open to **internships**, and always up for a hackathon team.
 - Off the keyboard: 🏸 badminton is my main game. I also play 🏏 cricket, pickleball and 🏐 volleyball.
 
@@ -35,24 +36,24 @@ I build AI products at hackathon speed: agents that get stalled prescriptions fi
 |:--|:--|:--|:--|
 | **[Munshi](https://github.com/meetbhojani8989/Munshi)** | An AI back office for small businesses that keeps the books and learns as it goes | self-improving forecast agents (−59% error) | c0mpiled-15, Penn State |
 | **[Echo by Relay](https://github.com/anantp1910/EchoByRelay)** | Agents that turn a doctor's one-line order into medicine in the patient's hands | the multi-agent engine | HackGT 13 |
-| **[Curio](https://github.com/Ishaannarang22/Curio)** | Talk through a topic out loud and watch it become a live whiteboard | real-time whiteboard and sync | weekend build, Jun 2026 |
+| **[Curio](https://github.com/Ishaannarang22/Curio)** | Thinking, made visible: talk through a topic and watch it become a live whiteboard | real-time whiteboard and sync | UC Berkeley AI Hackathon 2026 |
 | **[kerdos](https://github.com/anantp1910/kerdos)** | Picks the best card for every purchase and auto-invests the rewards | Plaid, live market data, AI advice | Bitcamp 2026 |
+| **[Trajectory](https://github.com/anantp1910/Trajectory-AI-Career-and-Curriculum-Copilot)** | Turns a resume into a skill map, a course plan and job-ready next steps | React frontend | c0mpiled-6, Penn State |
 | **[WatchCare-AI](https://github.com/anantp1910/WatchCare-AI)** | Spots falls on hospital waiting-room cameras and alerts staff in real time | Android alert app with Firebase | NexHacks, CMU |
-| **[Trajectory](https://github.com/anantp1910/Trajectory-AI-Career-and-Curriculum-Copilot)** | Turns a resume into a skill map, a course plan and job-ready next steps | React frontend | weekend build, Mar 2026 |
 
 <div align="center">
 
 ### Connect
 
-<a href="TODO-linkedin"><img src="https://img.shields.io/badge/LinkedIn-2c7a56?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="TODO-devpost"><img src="https://img.shields.io/badge/Devpost-2c7a56?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
-<a href="TODO-email"><img src="https://img.shields.io/badge/Email-2c7a56?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/anantpatel19/"><img src="https://img.shields.io/badge/LinkedIn-2c7a56?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://devpost.com/anant-p1910"><img src="https://img.shields.io/badge/Devpost-2c7a56?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
+<a href="mailto:anant.p1910@gmail.com"><img src="https://img.shields.io/badge/Email-2c7a56?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ### Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,kotlin,r,react,nextjs,tailwind,threejs&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,r,react,nextjs,tailwind,threejs&theme=light" alt="TypeScript, JavaScript, Python, Kotlin, R, React, Next.js, Tailwind, three.js">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,r,react,nextjs,tailwind,threejs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,r,react,nextjs,tailwind,threejs&theme=light" alt="TypeScript, JavaScript, Python, Java, Kotlin, R, React, Next.js, Tailwind, three.js">
 </picture>
 <br>
 <picture>
