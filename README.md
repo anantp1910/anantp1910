@@ -9,7 +9,7 @@
 
 ## Hi, I'm Anant
 
-**AI engineer and full-stack builder**
+**AI Engineer and Full-Stack Builder**
 
 I build AI products at hackathon speed: agents that get stalled prescriptions filled, a back office that learns from your books, and fall detection for ER waiting rooms.
 
